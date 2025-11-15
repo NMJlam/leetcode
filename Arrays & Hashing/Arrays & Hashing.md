@@ -1,1 +1,1 @@
-[[705. Design HashSet]]
+[[705. Design HashSet]] NAIVE

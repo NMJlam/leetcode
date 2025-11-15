@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:Graphs  ",
+      "color": {
+        "a": 1,
+        "rgb": 8183890
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9207900792390661,
+  "scale": 1.998463853914425,
   "close": true
 }
